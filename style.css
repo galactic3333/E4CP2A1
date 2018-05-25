@@ -1,0 +1,92 @@
+.bg-light{
+	background-color: #0060A0!important;
+}
+
+.card{
+	border-color: grey;
+}
+
+.navgab{
+	position:fixed;
+	top: 0px;
+	width: 100%; 
+	z-index: 5000;
+}
+
+.logogab{
+	width: 250px;
+	height: 53px;
+}
+
+#fotologo{
+	width: 80px; 
+}
+
+#logostylegab{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 1rem;
+	width: 110px;
+	line-height: 26px;
+	height: 53px;
+	margin-bottom: 0;
+	margin-right: 2rem;
+	float: left;
+	color: white;
+}
+
+.float{
+	float: left;
+}
+
+.menufontgab{
+	color: #ffc107!important;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 2rem;
+	margin-right: 0.3rem;
+}
+
+.containercarugab{
+	max-height: 240px;
+	margin-top: 80px;
+}
+
+
+
+.carouselgab{
+	max-width: 320px;
+	text-align: center;
+	margin: 0px auto;
+}
+
+.imgcarugab{
+	max-height: 240px;
+	max-width: 320px
+}
+
+.cardgab{
+	width: 18rem; 
+	margin-bottom: 20px;
+}
+
+.contactogab{
+	line-height: 0.8rem;
+}
+
+.suscribegab{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.footergab{
+	background-color: black;
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 3px;
+	margin-bottom:0px;
+}
+
+/* NOSOTROSSS */
+
+.jumbogab{
+	padding-top: 130px;
+}
